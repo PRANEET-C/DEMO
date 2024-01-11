@@ -1,3 +1,3 @@
 # Demo
 
-Getting started with the features.
+Getting started with the features!
